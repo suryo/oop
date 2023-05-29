@@ -15,7 +15,7 @@ $member = array(
     array("nama"=>"c","alamat"=>"surabaya","email"=>"c.gmail.com"),
 );
 
+
 var_dump($member);
 
 $showresult->showprofile($nama, $alamat, $email);
-?>
